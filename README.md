@@ -108,11 +108,13 @@ GhostAI 不黑盒，技术栈对你公开：
 
 ## 📞 联系咨询
 
-需要企业版定制 / 私有化部署 / 培训对接：
+需要企业版定制 / 私有化部署 / 培训对接，扫码加客服微信：
 
-- 微信：扫码加客服（首页 /buy 底部）
-- 邮箱：support@ghostai.top
-- 官网：[www.ghostai.top](https://www.ghostai.top)
+<p align="center">
+  <img src="assets/wechat-qr.jpg" alt="GhostAI 客服微信二维码" width="240">
+</p>
+
+官网：[www.ghostai.top](https://www.ghostai.top)
 
 ## 🤝 联盟分销
 
