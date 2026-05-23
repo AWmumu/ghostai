@@ -15,15 +15,15 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/screenshots/1-landing.png" alt="GhostAI 主页" width="800">
-</p>
-
 ---
 
 ## 🎯 GhostAI 是什么
 
 GhostAI 是一个**开箱即用的 AI 知识库 SaaS**，基于 [Dify](https://dify.ai) 内核 + 国内主流模型，专为中文场景和国内合规需求优化：
+
+<p align="center">
+  <img src="assets/screenshots/1-features.png" alt="为什么选 GhostAI" width="800">
+</p>
 
 - 📚 **秒级文档问答**：上传 PDF / Word / Markdown / 网页一键搞定，自动切块、向量化、附引用来源
 - 🇨🇳 **中文优化**：DeepSeek V4 中文理解领先，bge-m3 1024 维嵌入对中文检索做深度优化
@@ -79,7 +79,7 @@ GhostAI 是一个**开箱即用的 AI 知识库 SaaS**，基于 [Dify](https://d
 ### 2. 上传文档 + 提问
 
 <p align="center">
-  <img src="assets/screenshots/5-dify-chat.png" alt="问答效果" width="800">
+  <img src="assets/screenshots/4-admin.png" alt="Dify 控制台 - 文档管理" width="800">
 </p>
 
 - 拖入 PDF / Word / Markdown / 粘贴网页链接
